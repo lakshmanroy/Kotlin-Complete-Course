@@ -1,12 +1,14 @@
 fun main(){
-    // var a:String="Hello kotlin"
-    // var b:String="Language"
+    var a:String="Hello kotlin"
+    var b:String="Language"
     
-    // var age:Int=25
+    var age:Int=25
 
-    // println(a + " " + b)
+    println(a + " " + b)
 
-    // println("your age is " + age)
+    println("your age is " + age)
+
+    println("-----------------")
 
     var x:String="Lakshman"
     // var i:Int=x.length
@@ -18,8 +20,15 @@ fun main(){
 
     // println(x.isEmpty)
 
+    println("_______________________")
+
     println(x.lowercase())
     println("*************************88")
     println(x.uppercase())
+
+    var name:String= "Dhanalakshmi"
+    println(name.length)
+
+
 
 }
