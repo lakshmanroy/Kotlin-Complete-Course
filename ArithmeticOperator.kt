@@ -24,4 +24,7 @@ fun main() {
     result= number1 % number2
 
     println("number1 % number2=" + result)
+
+     result=number1 >number2
+    println(result)
 }
