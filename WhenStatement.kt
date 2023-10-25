@@ -17,4 +17,5 @@ fun main() {
         else -> day ="invalid day choice"
     }
     println("Day is $day")
+    println("Thanks for choose")
 }
