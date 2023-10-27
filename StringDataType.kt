@@ -29,6 +29,11 @@ fun main(){
     var name:String= "Dhanalakshmi"
     println(name.length)
 
+    println("*****************************")
+
+    var userName:String="Dhanalakshmi"
+    println("your name is $userName")
+
 
 
 }
