@@ -18,4 +18,10 @@ fun main(){
 
     println("size of cars array= " + cars.size)
 
+    println("_________________________________")
+
+    var moto = arrayOf("oppo","vivo")
+    println("first element of Array" + moto[0])
+    println("second element of array" + moto[1])
+
 }
