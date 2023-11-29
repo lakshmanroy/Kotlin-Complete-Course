@@ -22,6 +22,9 @@ fun main(){
 
     var moto = arrayOf("oppo","vivo")
     println("first element of Array" + moto[0])
-    println("second element of array" + moto[1])
+    println("second element of array" + moto[1]) 
+
+    var carse = arrayOf("vivo", "Test")
+    println("First element of Array" + carse[0])
 
 }
