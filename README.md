@@ -7,7 +7,8 @@
 🛠️ Tooling Support: Kotlin enjoys strong support from popular IDEs such as IntelliJ IDEA, Android Studio, and Visual Studio Code. These tools offer features like code completion, refactoring, and debugging, enhancing developer productivity..
 🌱 Growing Community: Kotlin has a vibrant and rapidly growing community of developers and contributors. This community actively contributes libraries, frameworks, and resources, enriching the Kotlin ecosystem.
 📱 Officially Supported by Google: Kotlin is officially supported by Google for Android development, indicating its significance and long-term viability in the mobile development space..
-🌐 Open Source: Kotlin is an open-source language maintained by JetBrains. Its source code is available on GitHub, allowing developers to contribute, report issues, and track its development progress transparently.
+🌐 Open Source: Kotlin is an open-source language maintained by JetBrains. Its source code is available on GitHub, allowing developers to contribute, report issues, and track its development progress transparently..
+
 
 
 
