@@ -2,7 +2,7 @@
 🚀 Multi-platform Support: Kotlin is not limited to a single platform; it can be used for developing applications for Android, server-side, web, and more. Its versatility makes it a popular choice for cross-platform development..
 🛡️ Null Safety: Kotlin's type system is designed to eliminate the risk of null pointer exceptions. Nullable types are explicitly declared, reducing the chances of null-related bugs..
 🎨 Functional Programming: Kotlin supports functional programming paradigms, allowing developers to write concise and expressive code using higher-order functions, lambdas, and immutable data structures..
-💫 Coroutines: Kotlin provides first-class support for coroutines, enabling asynchronous programming with ease. Coroutines simplify concurrency by abstracting away low-level threading details.
+💫 Coroutines: Kotlin provides first-class support for coroutines, enabling asynchronous programming with ease. Coroutines simplify concurrency by abstracting away low-level threading details..
 🔗 Interoperability: Kotlin seamlessly interoperates with existing Java code, making it easy for developers to migrate projects gradually. This interoperability allows developers to leverage Kotlin's features without rewriting their entire codebase..
 🛠️ Tooling Support: Kotlin enjoys strong support from popular IDEs such as IntelliJ IDEA, Android Studio, and Visual Studio Code. These tools offer features like code completion, refactoring, and debugging, enhancing developer productivity..
 🌱 Growing Community: Kotlin has a vibrant and rapidly growing community of developers and contributors. This community actively contributes libraries, frameworks, and resources, enriching the Kotlin ecosystem.
